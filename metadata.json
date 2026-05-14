@@ -1,0 +1,8 @@
+{
+  "name": "Tic Tac Toe Modern",
+  "description": "A glassmorphism-styled, responsive Tic Tac Toe game with sound effects, an unbeatable AI Minimax opponent, dark mode, and score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
